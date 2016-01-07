@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>jekyll-seed</id>
+    <version>1.0.0.0</version>
+    <title>jekyll seed for creating static websites fast</title>
+    <authors>yudielgc@gmail.com</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>jekyll-seed</description>
+    <releaseNotes>Initial release</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <file src="content\**" target="content" />
+  </files>
+</package>

@@ -1,0 +1,9 @@
+node_modules/
+.grunt
+build/
+build-tmp/
+releases/
+src/_site/
+.idea
+*.sublime*
+*.log

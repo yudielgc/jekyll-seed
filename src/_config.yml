@@ -1,0 +1,9 @@
+name: "yes-roofing"
+description: ""
+separator: " | "
+
+url: "http://yes-roofing.s3-website-us-west-1.amazonaws.com/"
+
+paginate: 10
+
+permalink: none
