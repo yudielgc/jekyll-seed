@@ -4,10 +4,12 @@ Using [Jekyll](https://jekyllrb.com/) for creating static websites fast, grunt f
 
 ## Requirements ##
 
-- Ruby (including development headers, v1.9.3 or above for Jekyll 2 and v2 or above for Jekyll 3)
-- RubyGems
-- NodeJS, or another JavaScript runtime (Jekyll 2 and earlier, for CoffeeScript support).
-- Python 2.7 (for Jekyll 2 and earlier)
+- `Ruby` (including development headers, v1.9.3 or above for Jekyll 2 and v2 or above for Jekyll 3)
+- `RubyGems`
+- `NodeJS`, or another `JavaScript` runtime (`Jekyll 2` and earlier, for `CoffeeScript` support).
+- `Python 2.7` (for `Jekyll 2` and earlier)
+
+Installation: [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
 
 ## Getting Started ##
 
